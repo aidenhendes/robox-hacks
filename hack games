@@ -1,0 +1,10 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Roblox</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <header><img src="images/index_pic.png" alt="roblox title with characters infront" width="1425" height="600"></header>
+   
+    <nav>
+		<a href="index.html"><img src="images/robloxlogo2.png" alt="roblox logo" height="100"></a>
